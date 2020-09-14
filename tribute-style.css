@@ -1,0 +1,15 @@
+/* tribute-style.css 09-05-2020 */
+
+/* Responsive text */
+#main{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+/* Responsive image */
+#img-div{
+  max-width: 100%;
+}
