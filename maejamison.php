@@ -16,7 +16,6 @@
 <!-- Page content -->
 <main id="main">
 
-
 <h1 class="btd-padding-24 btd-center" id="title">Dr. Mae C. Jamison</h1>
 <h3 class="btd-center">NASA Astronaut, Physician, and Engineer </h3>
 
